@@ -1,1 +1,1 @@
-Testing new striddng
+Testing new stdriddng
