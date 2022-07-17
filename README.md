@@ -1,1 +1,1 @@
-my new file contents
+Testing new string
